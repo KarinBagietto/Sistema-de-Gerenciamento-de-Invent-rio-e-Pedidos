@@ -1,4 +1,4 @@
-# 🧾 Sistema de Gerenciamento de Inventário e Pedidos — FATEC
+# 🧾 Sistema de Gerenciamento de Inventário e Pedidos 
 
 Projeto desenvolvido como atividade prática para consolidação de conceitos de **Programação Orientada a Objetos em Java** com persistência de dados em **JSON**.
 
